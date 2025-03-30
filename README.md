@@ -1,3 +1,4 @@
+![Screenshot (33)](https://github.com/user-attachments/assets/ebf90602-1781-4ca8-ab02-d5ca79b4b163)
 # 🦠 COVID-19 Dashboard in Excel 📊  
 
 📌 **Project Type:** Data Visualization & Analysis  
@@ -48,5 +49,4 @@ The dataset consists of the following key columns:
 💡 This project is open for suggestions! Feel free to reach out if you have any **feedback or improvement ideas.** 😊  
 
 📍 **Follow me for more data analytics projects!** 🚀 
-![Screenshot (33)](https://github.com/user-attachments/assets/ebf90602-1781-4ca8-ab02-d5ca79b4b163)
 
