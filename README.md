@@ -49,7 +49,8 @@ The dataset consists of the following key columns:
 
 📍 **Follow me for more data analytics projects!** 🚀 
 
-![Uploading Screenshot (67).png…]()
+![Screenshot (67)](https://github.com/user-attachments/assets/81a0266e-3d60-405e-9909-423dab03daf5)
+
 
 
 
